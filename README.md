@@ -19,3 +19,15 @@ Install dependencies:
 
 ```bash
 pip install requests beautifulsoup4
+
+## Install Ollama
+
+### Windows
+1. Go to: https://ollama.com
+2. Download the Windows installer
+3. Run the installer and complete setup
+4. Restart your system if required
+
+Verify installation:
+```bash
+ollama --version
